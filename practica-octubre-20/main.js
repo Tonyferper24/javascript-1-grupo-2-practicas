@@ -1,3 +1,4 @@
+
 //Ejercicio 1
 
 /*
@@ -12,8 +13,8 @@ for(i = 0; i < parametro.length; i++){
 }
 
 console.log(numMayor);
-*/
 
+*/
 
 //Ejercicio 2
 
@@ -79,4 +80,3 @@ function NumRepet(num){
 }
 console.log(NumRepet([2,5,6,3,6,2,5,10,11]))
 */
-
